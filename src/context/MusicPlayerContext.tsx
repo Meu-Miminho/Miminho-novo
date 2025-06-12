@@ -46,21 +46,21 @@ const samplePlaylist: Song[] = [
     title: "Forsaken",
     artist: "Dream Theater",
     src: "musicas/Forsaken.mp3",
-    cover: "https://placehold.co/100x100/FFD700/000000?text=Song1",
+    cover: "imagens/capas/Dream-Theater.jpg",
   },
   {
     id: "2",
     title: "Arrival of the Birds",
     artist: "The Cinematic Orchestra",
     src: "musicas/Arrival-of-the-Birds.mp3",
-    cover: "https://placehold.co/100x100/ADD8E6/000000?text=Song2",
+    cover: "imagens/capas/The-Cinematic-Orchestra.jpg",
   },
   {
     id: "3",
     title: "I Am",
     artist: "Theocracy",
     src: "musicas/I-Am.mp3",
-    cover: "https://placehold.co/100x100/90EE90/000000?text=Song3",
+    cover: "imagens/capas/Theocracy.jpg",
   },
 ];
 
